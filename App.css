@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(170, 229, 252);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 25px;
+  border-color: black;
+
+}
+
+button{
+  border: 1px solid black;
+  padding: 15px;
+  margin: 15px;
+
+}
+
+input{
+  padding: 15px;
+  margin: 15px;
+  font-size: 15px;
+}
